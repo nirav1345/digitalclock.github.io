@@ -1,0 +1,18 @@
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Lato", sans-serif;
+}
+
+#clock {
+	height: 100vh;
+	width: 100%;
+	background-color: #e1bb68;
+	color: rgba(0, 0, 0, 0.733);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 70px;
+ 
+}
